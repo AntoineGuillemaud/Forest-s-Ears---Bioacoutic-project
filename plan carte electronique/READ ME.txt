@@ -1,0 +1,7 @@
+On a pas eu le temps d'implementer les boutons et de la led dans le code de la teensy.
+
+Liste matériel :
+-micro : MAX9814
+-teensy 3.5
+-BMS 1S
+-batterie : 2*18650

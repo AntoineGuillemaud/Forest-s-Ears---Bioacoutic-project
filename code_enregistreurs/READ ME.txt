@@ -1,0 +1,3 @@
+pour utiliser les enregistreurs, il faut mettre le code "TeensyDmaAdcLogger_embeded2" dans la teensy,
+
+puis il faut transformer les fichiers ".bin" en ".wav" en utilisant changeBINwin.exe dans le meme dossier que les fichiers audio.

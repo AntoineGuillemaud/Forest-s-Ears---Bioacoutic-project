@@ -1,0 +1,6 @@
+1.creer les dossiers "ID1", "ID2", "ID3", "ID4" dans le meme dossier que les programmes pythons, et y mettre les fichiers audio.
+2.lancer preprocessing.py (bientot disponible)
+3.lancer autoencodeur1.py
+
+
+"test_file_list.json" est un fichier json qui contient le nom des fichiers qui servent pour le test de l'ia (~20% du dataset)
